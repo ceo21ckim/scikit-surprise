@@ -6,7 +6,7 @@ Document : [Document][doclink]
 
 [doclink]: https://surprise.readthedocs.io/en/stable/ "document link"
 
-## Basci Usage
+## Basic Usage
 
 Basic Usage : [Basic][bslink]
 
