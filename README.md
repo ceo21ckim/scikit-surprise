@@ -18,3 +18,9 @@ Baseline estimate Configuration : [Baseline][bslink]
 
 [bslink]: https://github.com/ceo21ckim/scikit-surprise/blob/main/2.%20Using%20prediction%20algorithms/Baselines%20estimates%20configuration.py "Baseline Configuration"
 
+
+# FAQ
+
+basic algorithm : [basic algorithm][balink]
+
+[balink]: https://github.com/ceo21ckim/scikit-surprise/blob/main/3.%20How%20to%20build%20your%20own%20prediction%20algorithm/basic%20algorithm.py "Basic Algorithm"
