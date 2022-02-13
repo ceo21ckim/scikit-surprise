@@ -1,5 +1,7 @@
 # scikit-surprise
-추천 시스템에서 주로 사용하는 scikit-surprise의 document를 작성하는 공간입니다. 
+추천 시스템에서 주로 사용하는 scikit-surprise의 document를 작성하는 공간입니다.
+
+document의 내용을 직접 typing하면서 공부 중입니다. 
 
 
 ## Document
