@@ -1,4 +1,6 @@
 # scikit-surprise
+추천 시스템에서 주로 사용하는 scikit-surprise의 document를 작성하는 공간입니다. 
+
 
 ## Document
 
